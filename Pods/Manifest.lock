@@ -1,0 +1,27 @@
+PODS:
+  - A (0.0.1):
+    - Network
+  - module-mvvm (0.0.1)
+  - Network (0.0.1)
+
+DEPENDENCIES:
+  - A (from `./`)
+  - module-mvvm (from `./`)
+  - Network (from `./`)
+
+EXTERNAL SOURCES:
+  A:
+    :path: ./
+  module-mvvm:
+    :path: ./
+  Network:
+    :path: ./
+
+SPEC CHECKSUMS:
+  A: 40291de07dfd62c23fada6c0144116681197478b
+  module-mvvm: ddf03b95bdb753fd0a60bf274a58ab900b9d1065
+  Network: 5fea79a5a42faf5a09f2754414bc55321cf708f0
+
+PODFILE CHECKSUM: e5912eedb36b1506ee04a6d5a3905bc2bbee7eaa
+
+COCOAPODS: 1.3.1
